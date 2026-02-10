@@ -1,1 +1,1 @@
-# simple-project1
+# simple-project
